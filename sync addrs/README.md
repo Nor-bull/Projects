@@ -1,4 +1,4 @@
-# Project synchronizacia 2 adresarov
+# Project synchronization 2 directories from console
 Synchronization must be one-way: after the synchronization content of the replica folder should be modified to exactly match content of the source folder;
 
 Synchronization should be performed periodically;
